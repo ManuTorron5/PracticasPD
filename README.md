@@ -1,2 +1,2 @@
 # PracticasPD
-Some Haskell fun
+Some Haskell fun from the subject Programación Declarativa
