@@ -1,0 +1,2 @@
+# PracticasPD
+Some Haskell fun
